@@ -14,8 +14,8 @@ style.css -
 
 * Deleted a lot of redundancy as well as changed corresponding classes to what they are in the HTML
 
-[Link to Completed Homework Img 1](./assets/images/homework-1-screenshot.png)
-[Link to Completed Homework Img 2](./assets/images/homework-2-screenshot-2.png)
+[Link to Completed Homework Img 1](./assets/images/homework-1-screenshot.png) <br/>
+[Link to Completed Homework Img 2](./assets/images/homework-2-screenshot-2.png) <br/>
 [Link to Completed Homework Img 3](./assets/images/homework-1-screenshot-3.png)
 
 Acknowledgements
