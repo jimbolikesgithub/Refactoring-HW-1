@@ -2,7 +2,7 @@
 
 index.html - 
 ----------
-* Changed every single div, some figure, some section, and some aside.
+* Changed every single div, some to figure, some section, and some aside.
 
 * Spaced and threw in some helpful documentation for easier code readability.
 
@@ -20,7 +20,7 @@ style.css -
 
 Acknowledgements
 ----------------
-Brian Samuels
-Eric Hurst
-Lina Choi
+Brian Samuels <br/>
+Eric Hurst <br/>
+Lina Choi <br/>
 Seamona Stewart (Host)
