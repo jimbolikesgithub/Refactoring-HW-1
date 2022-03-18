@@ -18,6 +18,8 @@ style.css -
 [Link to Completed Homework Img 2](./assets/images/homework-2-screenshot-2.png)
 [Link to Completed Homework Img 3](./assets/images/homework-1-screenshot-3.png)
 
+https://jimbolikesgithub.github.io/Refactoring-HW-1/#search-engine-optimization
+
 Acknowledgements
 ----------------
 Brian Samuels
